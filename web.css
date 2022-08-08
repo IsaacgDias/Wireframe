@@ -1,0 +1,189 @@
+*{
+    margin:0;
+    padding:0;
+    border:none;
+    text-decoration:none;
+
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    background-image: url(img/dawid-zawila--G3rw6Y02D0-unsplash.jpg);
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+   
+
+}
+
+header{
+    width: 960px;
+    height: 200px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    background-color:rgb(188, 192, 189);
+    margin: 0 auto;
+    margin-top: 20px;
+    background-image: url(img/chris-weiher-dnjvNDKZKI8-unsplash.jpg);
+    background-size:100%;
+   
+     
+
+}
+
+section {
+    float:left;
+    width:150px;
+    height:172px;
+    border:1px solid #000;
+    background-color:#eee;
+    margin-left:10px;
+    margin-right:20px;
+    margin-top:10px;
+    font-size:16pt;
+    
+
+}
+
+#section2 {
+    float:right;
+    width:500px;
+    height:50px;
+    border:1px solid #000;
+    background-color:#eee;
+    margin-right:20px;
+    margin-top:10px;
+  
+}
+
+nav {
+    width:960px;
+    height:105px;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+#section3 {
+    float:left;
+    width:445px;
+    height:80px;
+    border: 1px solid #000;
+    background-color: rgb(194, 190, 190);
+
+}
+
+#section4 {
+    float:right;
+    width:445px;
+    height:80px;
+    border: 1px solid #000;
+    background-color: rgb(194, 190, 190);
+  
+}
+
+
+
+main {      /* aqui vai ter que deixar a borda oculta */
+    margin:0 auto;
+    margin-top:10px;
+    width:960px;
+    height:500px;
+
+}
+
+aside{
+    float:left;
+    width:200px;
+    height:480px;
+    border:1px solid #000;
+    background-color: rgb(194, 190, 190);
+}
+
+#section5 {
+    width:180px;
+    height:200px;
+    border: 1px solid #000;
+    background-color: rgb(255, 255, 255);
+    font-size:12pt
+
+}
+
+#section6 {
+    width:180px;
+    height:200px;
+    border: 1px solid #000;
+    background-color: rgb(255, 255, 255);
+}
+
+#aside2{
+    float:left;
+    width:500px;
+    height:480px;
+    border:1px solid #000;
+    background-color: rgb(194, 190, 190);
+    margin-left:20px;
+    background-image:url(img/hans-isaacson-FCBKOByBcjI-unsplash.jpg);
+    background-position: 100%;
+   
+}
+
+#section7 {
+    width:180px;
+    height:100px;
+    border: 1px solid #000;
+    background-color: rgb(255, 255, 255);
+}
+
+#section8{
+    width:180px;
+    height:100px;
+    border: 1px solid #000;
+    background-color: rgb(255, 255, 255);
+    margin-left:85px;
+}
+
+#section9{
+    width:465px;
+    height:100px;
+    border: 1px solid #000;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+    margin-left:13px;
+    margin-top:10px;
+
+}
+
+#section10{
+    width:180px;
+    height:100px;
+    border: 1px solid #000;
+    background-color: rgb(255, 255, 255);
+}
+
+#section11{
+    width:180px;
+    height:100px;
+    border: 1px solid #000;
+    background-color: rgb(255, 255, 255);
+    margin-left:85px;
+}
+
+#aside3{
+    float:left;
+    width:200px;
+    height:480px;
+    border:1px solid #000;
+    background-color: rgb(194, 190, 190);
+    margin-left:34px;
+}
+
+footer {
+    width: 960px;
+    height: 80px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    background-color:rgb(188, 192, 189);
+    margin: 0 auto;
+    margin-top: 20px;
+
+}
